@@ -1,1 +1,25 @@
+Question 1
+#print("Hello World")
 
+Question2
+#num1 =20
+#num2 = 30
+#result = num1 + num2
+#print(f"The sum is: {result}")
+
+
+
+Question 2
+#print("Anmol \n" *3)
+
+
+
+Question 2.1
+# a=12
+# b=15
+# c=18
+# sum =a+b+c
+# print(f"the sum of the three numbers is: {sum}")
+
+
+Question 2.2
