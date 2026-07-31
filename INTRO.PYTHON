@@ -23,3 +23,17 @@ Question 2.1
 
 
 Question 2.2
+#for i in range(0,10,2):
+ #   print(i)
+
+
+Queston 2.3
+# count = 1                  
+# while count <= 10:         
+#     print(count)
+#     count += 1            
+
+Question 2.4
+# for i in range(1,11):
+#     tf =i*5
+#     print(tf)
